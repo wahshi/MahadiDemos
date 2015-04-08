@@ -1,0 +1,18 @@
+{"Pages":[
+
+    { "pName": "List of the sites",
+      "pURL": "#topofPage",
+      "pDescr":"Demo pages for showing my web-development work; Using jQuery to display the list of sites from json file"
+    },
+
+    { "pName": "2nd Page",
+      "pURL": "#topofPage",
+      "pDescr":"Work on progress 2"
+    },
+
+    { "pName": "3rd Page",
+      "pURL": "#topofPage",
+      "pDescr":"Work on progress 3"
+    }
+
+]}
