@@ -1,0 +1,22 @@
+body {
+  background: #F2FFEB;
+  margin:0;
+}
+
+header, footer {
+  background: #ACF775;
+  padding: 2%;
+
+}
+
+
+.siteNames {
+  background: #C1F998;
+  padding:2%;
+}
+
+.col1, .col2 {
+  width: 40%;
+  float: left;
+  padding: 2%;
+}

@@ -7,7 +7,7 @@ $(document).ready(function() {
       // constructing the li element from the json
       var $newLi = "<li>" + val.pName + " <a href=" + val.pURL + ">....</a> <p>" +
       val.pDescr +"</p> </li>";
-      $(".siteNames").append($newLi );
+      $(".siteNames ol").append($newLi );
     });
 
   });
