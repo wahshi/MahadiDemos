@@ -1,22 +1,35 @@
 body {
-  background: #F2FFEB;
+  background-color: #F2FFEB;
   margin:0;
 }
 
 header, footer {
-  background: #ACF775;
+  background-color: #ACF775;
   padding: 2%;
 
 }
-
+footer {
+border: 1px double #000;
+width:100%;
+}
 
 .siteNames {
-  background: #C1F998;
+  background-color: #C1F998;
   padding:2%;
 }
 
 .col1, .col2 {
-  width: 40%;
+  background-color: #ACF775;
+  padding-bottom: 2%;
+}
+
+.col1 {
+  width: 55%;
   float: left;
-  padding: 2%;
+}
+
+
+.col2 {
+  width: 45%;
+  float: right;
 }
